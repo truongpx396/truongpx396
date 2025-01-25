@@ -56,30 +56,6 @@ Here are some ideas to get you started:
 
 ---
 
-## Visual Insights
-
-### Skillset Breakdown
-
-```mermaid
-graph TD
-A[Backend] -->|Golang, Gin| B[Microservices]
-A -->|Kafka, Redis| C[Messaging Systems]
-D[Blockchain] -->|Solidity, ERC721| E[NFTs]
-D -->|ReactJS, Web3.js| F[DApps]
-G[DevOps] -->|Terraform, Jenkins| H[CI/CD]
-G -->|Istio, Prometheus| I[Service Mesh & Monitoring]
-```
-
-### Cloud Deployment Flow
-
-```mermaid
-graph LR
-A[Codebase] -->|Docker Build| B[Containerized Services]
-B -->|Helm Charts| C[Kubernetes Cluster]
-C -->|ArgoCD Pipeline| D[Deployed on AWS EKS]
-```
-
----
 
 ## Connect with Me
 
