@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi, I'm Truong Phung 👋
+### Hi, I'm Truong 👋
 > "Passionate about continuous learning and building amazing things together!"
 
 <a href="https://www.linkedin.com/in/truongpx396/">
