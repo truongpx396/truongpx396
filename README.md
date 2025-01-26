@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi, I'm Truong Phung 👋
+> "Passionate about continuous learning and building amazing things together!"
 
 <a href="https://www.linkedin.com/in/truongpx396/">
   <img align="left" alt="Truong Phung's Linkdein" title="Truong Phung's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -27,6 +28,8 @@ Here are some ideas to get you started:
 </a>
 <img align="right" alt="GIF" width="300px" height="240px" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 <br/>
+
+
 
 ### I am a Full-Stack Engineer from Vietnam 🇻🇳
 -  **Work :** Full-Stack Developer specializing in scalable backend systems, blockchain technology, mobile development, and cloud infrastructure. I create impactful solutions with expertise in Golang, ReactJS, Flutter, Solidity, and Kubernetes...
@@ -43,8 +46,8 @@ Here are some ideas to get you started:
   </ul>
 </ul>
 
-
-**Skills Overview**  
+---
+### Skills Overview
 
 <table>
   <tr>
@@ -84,6 +87,7 @@ Here are some ideas to get you started:
   <tr>
     <td>DevOps</td>
     <td>
+      <img alt="Docker" title="Docker" width="22px" src="https://www.svgrepo.com/show/333528/docker.svg" />
       <img alt="Kubernetes" title="Kubernetes" width="22px" src="https://static-00.iconduck.com/assets.00/kubernetes-icon-2048x1990-le9wpkhu.png" />
       <img alt="AWS EKS" title="AWS EKS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg" />
       <img alt="Terraform" title="Terraform" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/terraform.svg" />
@@ -95,44 +99,25 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
----
-
-## Skills Overview
-
-| **Category**         | **Technologies**                                                                 |
-|----------------------|---------------------------------------------------------------------------------|
-| **Backend**          | Golang, Python, Gin, GORM, gRPC, Kafka, MySQL, MongoDB, Redis                   |
-| **Blockchain**       | Solidity, OpenZeppelin, Hardhat, Web3.js, Ether.js, ERC20/ERC721 standards      |
-| **Mobile**           | Flutter (Dart)                                                                 |
-| **DevOps**           | AWS EKS, Terraform, Jenkins, ArgoCD, Istio, Prometheus, Grafana                |
 
 ---
 
-## Recent Projects
+### Recent Projects
 
-### Scalable Chat Server (Microservices)
+#### Scalable Chat Server (Microservices)
 **Tech Stack:** WebSocket (Gorilla), Kafka, MySQL, MongoDB, Redis, Docker/Kubernetes
 - Deployed on AWS EKS using Terraform
 - CI/CD with Jenkins and ArgoCD
 - Monitoring with Prometheus and Grafana
 
-### NFT Marketplace
-**Backend:** Go-Ethereum, Go-Redis, Cobra
-**Smart Contracts:** Solidity, Hardhat, OpenZeppelin
-**Frontend:** Ether.js, ReactJS
+#### NFT Marketplace
+- **Backend:** Go-Ethereum, Go-Redis, PostgreSql, Gin, Gorm, Cobra...
+- **Smart Contracts:** Solidity, Hardhat, OpenZeppelin
+- **Frontend:** Ether.js, ReactJS
 
-### Crypto Wallet (Mobile App)
+#### Crypto Wallet (Mobile App)
 **Framework:** Flutter
 - Multi-currency wallet
 - Transaction management and user-friendly UI
 
----
-
-
-## Connect with Me
-
-- **GitHub:** [truongpx396](https://github.com/truongpx396)
-- **Blogs:** [Dev.to](https://dev.to/truongpx396) | [Viblo](https://viblo.asia/u/truong396)
-
-> "Passionate about continuous learning and building amazing things together!"
 
