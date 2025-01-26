@@ -23,7 +23,7 @@
   <ul>
     <li><a href="https://www.udemy.com/certificate/UC-e726b270-494b-4124-b13a-211a83ecf9cb/" target="_blank">GitHub Copilot</a></li>
     <li><a href="https://www.udemy.com/certificate/UC-5e4ab120-076b-4159-9e5f-d3ffd351a84d/" target="_blank">Kubernetes, Microservices, AWS Cloud</a></li>
-    <li><a href="https://credsverse.com/credentials/6b278f12-9b4d-4f1f-9e5f-d3ffd351a84d/" target="_blank">Large Language Models (LLMs), Transformers & GPT</a></li>
+    <li><a href="https://credsverse.com/credentials/6b278f12-9b4d-4f1f-9d71-acf73706f1e4" target="_blank">Large Language Models (LLMs), Transformers & GPT</a></li>
     <li><a href="https://www.udemy.com/certificate/UC-aa530e22-c581-4383-be59-b76d805f38a9/" target="_blank">Go: The Complete Developer's Guide (Golang)</a></li>
     <li><a href="https://www.udemy.com/certificate/UC-0a7e1457-36d9-40fb-9229-f92191586e9d/" target="_blank">Modern React with Redux </a></li>
     <li><a href="https://www.udemy.com/certificate/UC-a6dcf1fa-5e70-4041-ac9b-ed51aa6343d4/" target="_blank">Build, Deploy, and Scale an E-Commerce App using Microservices</a></li>
