@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 </ul>
 
 ---
-### Skills Overview
+### 🛠️ Skills Overview
 
 <table>
   <tr>
@@ -102,10 +102,10 @@ Here are some ideas to get you started:
 
 ---
 
-### Recent Projects
+### 🧑‍💻 Recent Projects
 
 #### Scalable Chat Server (Microservices)
-**Tech Stack:** WebSocket (Gorilla), Kafka, MySQL, MongoDB, Redis, Docker/Kubernetes
+**Tech Stack:** Golang, WebSocket (Gorilla), Kafka, MySQL, MongoDB, Redis, Docker/Kubernetes
 - Deployed on AWS EKS using Terraform
 - CI/CD with Jenkins and ArgoCD
 - Monitoring with Prometheus and Grafana
