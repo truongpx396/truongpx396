@@ -89,18 +89,18 @@
 
 ### 🧑‍💻 Recent Projects
 
-#### Scalable Chat Server (Microservices)
+#### 🌐 Scalable Chat Server (Microservices)
 **Tech Stack:** Golang, WebSocket (Gorilla), Kafka, MySQL, MongoDB, Redis, Docker/Kubernetes
 - Deployed on AWS EKS using Terraform
 - CI/CD with Jenkins and ArgoCD
 - Monitoring with Prometheus and Grafana
 
-#### NFT Marketplace
+#### 🖼️ NFT Marketplace
 - **Backend:** Go-Ethereum, Go-Redis, PostgreSql, Gin, Gorm, Cobra...
 - **Smart Contracts:** Solidity, Hardhat, OpenZeppelin
 - **Frontend:** Ether.js, ReactJS
 
-#### Crypto Wallet (Mobile App)
+#### 📱 Crypto Wallet (Mobile App)
 **Framework:** Flutter
 - Multi-currency wallet
 - Transaction management and user-friendly UI
