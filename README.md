@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <br/>
 
 ### I am a Fullstack engineer from Vietnam 🇻🇳
--  **Work :** Web development backend to frontend. I worked with AWS and Terraform :zap:
+-  **Work :** **Full-stack Engineer** specializing in scalable backend systems, blockchain technology, mobile development, and cloud infrastructure. I create impactful solutions with expertise in **Golang**, **ReactJS**, **Flutter**, **Solidity**, and **Kubernetes**.
 -  **Graduate :** A Computer Science. 
 -  **Certificates:** <ul><ul>
         <li>AWS Certified Solutions Architect – Associate</li>
