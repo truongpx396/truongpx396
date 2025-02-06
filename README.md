@@ -103,7 +103,11 @@
 - **Smart Contracts:** Solidity, Hardhat, OpenZeppelin
 - **Frontend:** Ether.js, ReactJS
 
-#### 📱 Crypto Wallet (Mobile App)
+#### 👥 Social Network Service
+- Features similar to Twitter
+- Using libraries like Gin, Gorilla Websocket, Cobra, openAPI
+
+#### 📱 Crypto Wallet with multichain support (Mobile App)
 **Framework:** Flutter
 - Multi-currency wallet
 - Transaction management and user-friendly UI
