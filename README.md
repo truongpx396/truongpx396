@@ -27,7 +27,10 @@
     <li><a href="https://www.udemy.com/certificate/UC-aa530e22-c581-4383-be59-b76d805f38a9/" target="_blank">Go: The Complete Developer's Guide (Golang)</a></li>
     <li><a href="https://www.udemy.com/certificate/UC-0a7e1457-36d9-40fb-9229-f92191586e9d/" target="_blank">Modern React with Redux </a></li>
     <li><a href="https://www.udemy.com/certificate/UC-a6dcf1fa-5e70-4041-ac9b-ed51aa6343d4/" target="_blank">Build, Deploy, and Scale an E-Commerce App using Microservices</a></li>
+    <li><a href="https://www.udemy.com/certificate/UC-bad383d5-5104-48aa-884d-6a1b53439fdd/" target="_blank">Microservices Architecture - The Complete Guide</a></li>
+    <li><a href="https://www.udemy.com/certificate/UC-519a20aa-ed40-461b-83f6-162d1cce4041" target="_blank">Cloud-Native: Microservices, Kubernetes, Service Mesh, CI/CD</a></li>
     <li><a href="https://www.udemy.com/certificate/UC-1cfc0f39-07e5-42fc-8794-9516c4ce2c54/" target="_blank">Pragmatic System Design</a></li>
+    <li><a href="https://www.udemy.com/certificate/UC-3888aef9-5bd8-40d4-82a4-7662802219b0/" target="_blank">Rocking System Design</a></li>
   </ul>
 </ul>
 
