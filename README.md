@@ -17,7 +17,7 @@
 
 
 ### I am a Full-Stack Engineer from Vietnam 🇻🇳
--  **Work :** Full-Stack Developer specializing in scalable backend systems, blockchain technology, mobile development, and cloud infrastructure. I create impactful solutions with expertise in Golang, ReactJS, Flutter, Solidity, and Kubernetes...
+-  **Work :** Full-Stack Developer specializing in scalable backend systems, blockchain technology, AI, mobile development, and cloud infrastructure. I create impactful solutions with expertise in Golang, ReactJS, Flutter, Solidity, and Kubernetes...
 -  **Graduate :** Computer Science Bachelor (UIT). 
 -  **Certificates:** <ul>
   <ul>
