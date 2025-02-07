@@ -18,7 +18,7 @@
 
 ### I am a Full-Stack Engineer from Vietnam 🇻🇳
 -  **Work :** Full-Stack Developer specializing in scalable backend systems, blockchain technology, AI, mobile development, and cloud infrastructure. I create impactful solutions with expertise in Golang, ReactJS, Flutter, Solidity, and Kubernetes...
--  **Graduate :** Computer Science Bachelor (UIT). 
+-  **Graduate :** Computer Science Bachelor (UIT). GPA - 8.0
 -  **Certificates:** <ul>
   <ul>
     <li><a href="https://www.udemy.com/certificate/UC-e726b270-494b-4124-b13a-211a83ecf9cb/" target="_blank">GitHub Copilot</a></li>
