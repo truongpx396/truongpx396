@@ -11,7 +11,7 @@
 <a href="mailto:truongpx396@gmail.com">
   <img align="left" alt="Truong PX's Gmail" title="Truong PX's Gmail" width="22px" fill="#AB7C94" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<img align="right" alt="GIF" width="300px" height="240px" src="[https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)" />
+<img align="right" alt="GIF" width="300px" height="240px" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 <br/>
 
 
