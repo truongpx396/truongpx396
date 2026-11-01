@@ -48,10 +48,28 @@
       <img alt="Golang" title="Golang" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/go.svg" />
       <img alt="Python" title="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />
       <img alt="Kafka" title="Kafka" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/apachekafka.svg" />
+      <img alt="NATS Stream" title="NATS Stream" width="22px" src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/nats/nats-original.svg" />
       <img alt="PostgreSQL" title="PostgreSQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/postgresql.svg" />
       <img alt="MySQL" title="MySQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" />
       <img alt="MongoDB" title="MongoDB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg" />
       <img alt="Redis" title="Redis" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/redis.svg" />
+      <img alt="Hatchet" title="Hatchet" width="22px" src="https://avatars.githubusercontent.com/u/118301880?s=64&v=4" />
+      <img alt="Casdoor" title="Casdoor" width="22px" src="https://avatars.githubusercontent.com/u/72992104?s=64&v=4" />
+      <img alt="SonarQube" title="SonarQube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sonarqube.svg" />
+      <img alt="Locust" title="Locust" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@16.36.0/icons/locust.svg" />
+      <img alt="k6" title="k6" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@16.36.0/icons/k6.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td>LLM Agent</td>
+    <td>
+      <img alt="LangGraph" title="LangGraph" width="22px" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.101.0/icons/langgraph-color.svg" />
+      <img alt="Langfuse" title="Langfuse" width="22px" src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.101.0/icons/langfuse-color.svg" />
+      <img alt="LiteLLM" title="LiteLLM" width="22px" src="https://cdn.jsdelivr.net/gh/BerriAI/litellm@60fc121ce8ab995cb2997e0bbd0a980ee93c627d/litellm/proxy/logo_monogram.png" />
+      <img alt="Qdrant" title="Qdrant" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@16.36.0/icons/qdrant.svg" />
+      <img alt="DeepEval" title="DeepEval" width="22px" src="https://cdn.jsdelivr.net/gh/confident-ai/deepeval@90e230cbe916c73240a48312c494065a39bf52d1/docs/public/icons/deepeval-icon.svg" />
+      <img alt="OpenSandbox" title="OpenSandbox" width="22px" src="https://avatars.githubusercontent.com/u/290567599?s=64&v=4" />
+      <img alt="Crawl4AI" title="Crawl4AI" width="22px" src="https://cdn.jsdelivr.net/gh/unclecode/crawl4ai@888299fb5f0b82181897dc0e61bfb4b036f0aea5/docs/md_v2/assets/images/logo.png" />
     </td>
   </tr>
   <tr>
@@ -69,14 +87,14 @@
       <img alt="Flutter" title="Flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flutter.svg" />
       <img alt="Dart" title="Dart" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dart.svg" />
       <img alt="Vite" title="Vite" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbu5eLG5axvL3DEFslA8xZKl9NRIpnYSDUmg&s" />
-      <img alt="React" title="React" width="22px" src="https://static-00.iconduck.com/assets.00/react-icon-1024x897-k6c5dil3.png" />
+      <img alt="React" title="React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg" />
     </td>
   </tr>
   <tr>
     <td>DevOps</td>
     <td>
       <img alt="Docker" title="Docker" width="22px" src="https://www.svgrepo.com/show/333528/docker.svg" />
-      <img alt="Kubernetes" title="Kubernetes" width="22px" src="https://static-00.iconduck.com/assets.00/kubernetes-icon-2048x1990-le9wpkhu.png" />
+      <img alt="Kubernetes" title="Kubernetes" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kubernetes.svg" />
       <img alt="AWS EKS" title="AWS EKS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg" />
       <img alt="Terraform" title="Terraform" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/terraform.svg" />
       <img alt="Jenkins" title="Jenkins" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/jenkins.svg" />
@@ -84,6 +102,17 @@
       <img alt="Istio" title="Istio" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSWBZLTQKrZzq2ZwyhjqZsT0CQDuZseH88lw&s" />
       <img alt="Prometheus" title="Prometheus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/prometheus.svg" />
       <img alt="Grafana" title="Grafana" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/grafana.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td>Security</td>
+    <td>
+      <img alt="Trivy" title="Trivy" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@16.36.0/icons/trivy.svg" />
+      <img alt="Semgrep" title="Semgrep" width="22px" src="https://avatars.githubusercontent.com/u/29760937?s=64&v=4" />
+      <img alt="Checkov" title="Checkov" width="22px" src="https://cdn.jsdelivr.net/gh/bridgecrewio/checkov@3bdc054cfb68d4be1802ebd135501fbaeb404900/docs/web/images/favicon.png" />
+      <img alt="OWASP ZAP" title="OWASP ZAP" width="22px" src="https://avatars.githubusercontent.com/u/6716868?s=64&v=4" />
+      <img alt="Strix" title="Strix" width="22px" src="https://avatars.githubusercontent.com/u/187630752?s=64&v=4" />
+      <img alt="DefectDojo" title="DefectDojo" width="22px" src="https://avatars.githubusercontent.com/u/35606478?s=64&v=4" />
     </td>
   </tr>
 </table>
