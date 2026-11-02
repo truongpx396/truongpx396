@@ -19,6 +19,7 @@
 ### I am a Full-Stack Engineer from Vietnam 🇻🇳
 -  **Work :** Full-Stack Engineer specializing in scalable backend systems, mobile, blockchain, LLM, AI Agent, and cloud infrastructure. I create impactful solutions with expertise in Golang, Python, ReactJS, Flutter, Solidity, and Kubernetes...
 -  **Graduate :** Computer Science Bachelor (UIT). GPA - 8.0
+-  **My Tech Blog :** https://dev.to/truongpx396
 -  **Certificates:** <ul>
   <ul>
     <li><a href="https://credsverse.com/credentials/cbd964e2-d9de-46e9-8b33-1509a5c05b0d?preview=1" target="_blank">Agentic AI - Fundamentals</a></li>
