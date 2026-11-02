@@ -124,6 +124,33 @@
 
 ### 🧑‍💻 Recent Projects
 
+#### 🤖 [Graph Agent Core](https://github.com/truongpx396/graph-agent-core) — multi-tenant LangGraph RAG agent
+**Tech Stack:** Python, FastAPI, LangGraph, LiteLLM, Qdrant, PostgreSQL, Redis Streams, Langfuse, OpenTelemetry, Go (edge auth), Casdoor
+- Hybrid RAG (dense + BM25, reranked) with verified citations, scoped to tenant and principal inside the store query
+- Human-in-the-loop approval for every write, with exactly-once side effects keyed by the tool-call ID
+- Stateless workers on a Redis Streams queue; MCP tools, skills, subagents, semantic cache, model routing and guardrails; any OpenAI-compatible LLM through LiteLLM
+
+#### 🧭 [Nexus Agent Demo](https://github.com/truongpx396/nexus-agent-demo) — governed AI agent platform
+**Tech Stack:** Go, PostgreSQL + PgBouncer, Redis Streams, React, Anthropic / LiteLLM, MCP, OpenTelemetry
+- Tenant isolation with row-level security, a hash-chained signer-attested audit trail, human approval and cost ceilings enforced before the spend
+- Append-only encrypted event log; one kernel loop behind REST, CLI, Telegram and React, with a 16-step tool pipeline and a 10-layer permission chain
+- Hexagonal design with an import-graph test: runs as one process today and keeps the seams for a control-plane / data-plane split (a reference implementation, not a deployed service)
+
+#### 💳 [intel-payment](https://github.com/truongpx396/intel-payment) — metering, credits and payments engine
+**Tech Stack:** Go, Redis (Functions + Streams), PostgreSQL, gRPC + REST, Stripe / Polar / PayPal, OpenTelemetry
+- Refuse-before-spend admission in a single Redis Function, with no durable-store wait on the hot path
+- Exact pricing with no floats, exactly-once accounting and a durable Postgres ledger
+- Signed payment webhooks persisted to an inbox before they are acknowledged; usable as a Go library or a container
+
+#### 🔔 [intel-notification](https://github.com/truongpx396/intel-notification) — multi-channel notification engine
+**Tech Stack:** Go, PostgreSQL 16, Redis, SMTP / Resend, Testcontainers
+- Durable recipient-scoped inbox, exactly-once fan-out over a transactional outbox, pluggable channels (in-app, email with provider failover), per-recipient preferences, digests and quotas
+- Tenant isolation (forced row-level security) and exactly-once held by the schema, not by call-site discipline
+- Spec-driven and test-first, with the hexagon's dependency graph enforced by lint rules; work in progress
+
+<details>
+<summary><b>📦 Past Projects</b></summary>
+
 #### 🌐 Scalable Chat Server (Microservices)
 **Tech Stack:** Golang, WebSocket (Gorilla), Kafka, MySQL, MongoDB, Redis, Docker/Kubernetes
 - Deployed on AWS EKS using Terraform
@@ -143,6 +170,8 @@
 **Framework:** Flutter
 - Multi-currency wallet
 - Transaction management and user-friendly UI
+
+</details>
 
 
 
