@@ -136,13 +136,13 @@
 - Append-only encrypted event log; one kernel loop behind REST, CLI, Telegram and React, with a 16-step tool pipeline and a 10-layer permission chain
 - Hexagonal design with an import-graph test: runs as one process today and keeps the seams for a control-plane / data-plane split (a reference implementation, not a deployed service)
 
-#### 💳 [intel-payment](https://github.com/truongpx396/intel-payment) — metering, credits and payments engine
+#### 💳 [Intel Payment](https://github.com/truongpx396/intel-payment) — metering, credits and payments engine
 **Tech Stack:** Go, Redis (Functions + Streams), PostgreSQL, gRPC + REST, Stripe / Polar / PayPal, OpenTelemetry
 - Refuse-before-spend admission in a single Redis Function, with no durable-store wait on the hot path
 - Exact pricing with no floats, exactly-once accounting and a durable Postgres ledger
 - Signed payment webhooks persisted to an inbox before they are acknowledged; usable as a Go library or a container
 
-#### 🔔 [intel-notification](https://github.com/truongpx396/intel-notification) — multi-channel notification engine
+#### 🔔 [Intel Notification](https://github.com/truongpx396/intel-notification) — multi-channel notification engine
 **Tech Stack:** Go, PostgreSQL 16, Redis, SMTP / Resend, Testcontainers
 - Durable recipient-scoped inbox, exactly-once fan-out over a transactional outbox, pluggable channels (in-app, email with provider failover), per-recipient preferences, digests and quotas
 - Tenant isolation (forced row-level security) and exactly-once held by the schema, not by call-site discipline
