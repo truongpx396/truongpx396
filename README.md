@@ -130,7 +130,7 @@
 - Human-in-the-loop approval for every write, with exactly-once side effects keyed by the tool-call ID
 - Stateless workers on a Redis Streams queue; MCP tools, skills, subagents, semantic cache, model routing and guardrails; any OpenAI-compatible LLM through LiteLLM
 
-#### 🧭 [Nexus Agent Demo](https://github.com/truongpx396/nexus-agent-demo) — governed AI agent platform
+#### 🧭 [Nexus Agent](https://github.com/truongpx396/nexus-agent-demo) — governed AI agent platform
 **Tech Stack:** Go, PostgreSQL + PgBouncer, Redis Streams, React, Anthropic / LiteLLM, MCP, OpenTelemetry
 - Tenant isolation with row-level security, a hash-chained signer-attested audit trail, human approval and cost ceilings enforced before the spend
 - Append-only encrypted event log; one kernel loop behind REST, CLI, Telegram and React, with a 16-step tool pipeline and a 10-layer permission chain
